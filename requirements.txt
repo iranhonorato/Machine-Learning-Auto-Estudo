@@ -7,3 +7,4 @@ pillow
 graphviz
 imageio
 joblib
+pycaret >= 3.3.0
